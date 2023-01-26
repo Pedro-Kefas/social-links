@@ -2,7 +2,7 @@
 
 <p align="center">
 Projeto de links socias para eu usar. <br/>
-<a href="https://pedro-kefas.github.io/social-links/">Veja o projeto funcionando aqui!</a>
+<a href="https://pedro-kefas.github.io/links-sociais/">Veja o projeto funcionando aqui!</a>
 </p>
 
 
@@ -18,7 +18,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Criado para agregar links como cartão de visita on-line. 
 
-- [Acesse o projeto finalizado on-line](https://pedro-kefas.github.io/social-links/)
+- [Acesse o projeto finalizado on-line](https://pedro-kefas.github.io/links-sociais/)
 
 ---
 
